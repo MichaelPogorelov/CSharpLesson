@@ -1,0 +1,15 @@
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.csprojAssemblyReference.cache
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.AssemblyInfoInputs.cache
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.AssemblyInfo.cs
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.csproj.CoreCompileInputs.cache
+/Users/michaelpogorelov/Projects/Lesson1/App01/bin/Debug/net5.0/App01.deps.json
+/Users/michaelpogorelov/Projects/Lesson1/App01/bin/Debug/net5.0/App01.runtimeconfig.json
+/Users/michaelpogorelov/Projects/Lesson1/App01/bin/Debug/net5.0/App01.runtimeconfig.dev.json
+/Users/michaelpogorelov/Projects/Lesson1/App01/bin/Debug/net5.0/App01.dll
+/Users/michaelpogorelov/Projects/Lesson1/App01/bin/Debug/net5.0/ref/App01.dll
+/Users/michaelpogorelov/Projects/Lesson1/App01/bin/Debug/net5.0/App01.pdb
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.dll
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/ref/App01.dll
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.pdb
+/Users/michaelpogorelov/Projects/Lesson1/App01/obj/Debug/net5.0/App01.genruntimeconfig.cache
